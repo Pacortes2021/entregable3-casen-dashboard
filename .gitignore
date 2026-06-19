@@ -1,0 +1,5 @@
+casen_2024.dta
+*.dta
+*.parquet
+__pycache__/
+.DS_Store
